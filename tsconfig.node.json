@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true, //是否强制代码中使用的模块文件名必须和文件系统中的文件名保持大小写一致，
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "alwaysStrict": false
+  },
+  "include": [
+    "vite.config.ts"
+  ]
+}
